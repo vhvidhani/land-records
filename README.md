@@ -22,22 +22,34 @@ localhost:3000/login
 ```
 
 # Screenshots
-1. Terminal - mining a transaction
+1. Soldity remix- Set environment to the web3 provider
+
+![sol1](images/sol1.png)
+
+2. Solidity remix - Contract and its transactions
+
+![sol2](images/sol2.png)
+
+3. Land contract and its functions
+
+![land](images/land.png)
+
+4. Terminal - mining a transaction
 
 ![mine](images/mining.png)
 
-2. Home page
+5. Home page
 
 ![home](images/home.png)
 
-3. Put land for sale
+6. Put land for sale
 
 ![home](images/putforsale.png)
 
-4. Buy land
+7. Buy land
 
 ![buy](images/buy.png)
 
-5. Get buyers
+8. Get buyers
 
 ![approve](images/approve.png)

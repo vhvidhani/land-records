@@ -22,14 +22,20 @@ localhost:3000/login
 ```
 
 # Screenshots
-1. Login page
-
+1. Terminal - mining a transaction
 
 2. Home page
 
+![home](images/home.png)
 
 3. Put land for sale
 
+![home](images/putforsale.png)
+
 4. Buy land
 
+![buy](images/buy.png)
+
 5. Get buyers
+
+![approve](images/approve.png)

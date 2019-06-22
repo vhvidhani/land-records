@@ -24,6 +24,8 @@ localhost:3000/login
 # Screenshots
 1. Terminal - mining a transaction
 
+![mine](images/mining.png)
+
 2. Home page
 
 ![home](images/home.png)
